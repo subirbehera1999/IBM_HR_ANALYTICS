@@ -59,7 +59,7 @@ WorkLifeBalance, JobLevel, StockOptionLevel
 
 ---
 
-### 3️⃣ Numeric (Continuous)
+### 3️⃣ Numeric
 Age, MonthlyIncome, TotalWorkingYears, YearsAtCompany,
 YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager, etc.
 
